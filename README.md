@@ -31,11 +31,11 @@ umożliwia on pełną customizację rozgrywki: mapa, ilość graczy(max5), ich t
 
 
 ## 👥 Twórcy
-### Fryderyk Szwoch
-### Jan Świsłowski
-### Krystian Wiszniewski
-### Oleg Ramanchyk 
-### Filip Kot
+### Fryderyk Szwoch - tester, pomysłodawca
+### Jan Świsłowski - kapitan drużyny, główny programista
+### Krystian Wiszniewski - programista, autor dokumentacji
+### Oleg Ramanchyk - grafik
+### Filip Kot - grafik
 
 ## 🔎Licencja i prawa autorskie
 - Wszystkie grafiki wykonaliśmy sami lub z pomocą ai
