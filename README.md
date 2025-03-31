@@ -34,7 +34,8 @@ umożliwia on pełną customizację rozgrywki: mapa, ilość graczy(max5), ich t
 ### Fryderyk Szwoch
 ### Jan Świsłowski
 ### Krystian Wiszniewski
-### Oleg Ramanchyk ???
+### Oleg Ramanchyk 
+### Filip Kot
 
 ## 🔎Licencja i prawa autorskie
 - Wszystkie grafiki wykonaliśmy sami lub z pomocą ai
