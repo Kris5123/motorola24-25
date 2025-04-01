@@ -58,11 +58,10 @@ Na trzecim poziomie wystepuje wiele przeszkód w postaci lodu(zmniejsza tarcie) 
 
 
 ## 👥 Twórcy
-### Fryderyk Szwoch - tester, pomysłodawca
 ### Jan Świsłowski - kapitan drużyny, główny programista
 ### Krystian Wiszniewski - programista, autor dokumentacji
 ### Oleg Ramanchyk - grafik
-### Filip Kot - grafik
+### Fryderyk Szwoch - Maskotka drużyny, "As w rękawie"
 
 ## 🔎Licencja i prawa autorskie
 - Wszystkie grafiki wykonaliśmy sami lub z pomocą ai
