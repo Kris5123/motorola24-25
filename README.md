@@ -41,7 +41,7 @@ umożliwia on pełną customizację rozgrywki: mapa, ilość graczy(max5), ich t
 
 ## ⚔️ Tryb Kampanii
 ### Poziom 1 "Luźny Lasek"
-Na pierwszym poziomie nie ma przeszkód w postaci lodu czy piasku. Przeciwnicy są wolni, a jedyną ich mocą jest rzucanie skórek od banana (po wjechaniu w skórkę od banana przez 2 sekundy nie można skręcać).
+Na pierwszym poziomie nie ma przeszkód w postaci kałuż błota i kałuż wody (błoto zwiększa tarcie opon, a woda zmniejsza). Przeciwnicy są wolni, a jedyną ich mocą jest rzucanie skórek od banana (po wjechaniu w skórkę od banana przez 2 sekundy nie można skręcać).
 ### Poziom 2 "Pustynna Przeszkoda"
 Na drugim poziomie mamy do czynienia z piaskiem i sztutrem. Jadąc po piasku wzrasta tarcie, spowalniając gracza, a jadąc po sztutrze 3krotnie wzrasta siła odśrodkowa, wyrzucając gracza na zakrętach. Przeciwnicy są szybsi, zrzucają plamy ojeu (po wjechaniu w skórkę od plamę oleju przez 0.5 sekundy samochód skręca w niekontrolowany sposób) i skórki od banana.
 ### Poziom 3 "Białe Bezdroża"
