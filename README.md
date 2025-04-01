@@ -1,4 +1,3 @@
-##Link do pliku exe, ponieważ jest za duży na githuba: https://drive.google.com/file/d/1F6fOm0WBdJFOX5Uu7gb3OTKEtYUpzvO-/view?usp=sharing
 # 🚗 Szybkie Sigmy
 ### Szybkie Sigmy to dynamiczna gra wyścigowa stworzona przez grupę Skibidi Sigma Rizzlerów jako projekt na Motorola Science Cup 24/25.
 ### Ścigaj się po różnych trasach, ulepszaj swoje pojazdy i rywalizuj z przyjaciółmi!
