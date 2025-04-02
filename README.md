@@ -1,5 +1,5 @@
 # 🚗 Szybkie Sigmy
-### Szybkie Sigmy to dynamiczna gra wyścigowa stworzona przez drużynę: "if mat-inf==True: prysznice = 0" jako projekt na Motorola Science Cup 24/25.
+### Szybkie Sigmy to dynamiczna gra wyścigowa stworzona przez drużynę: " if (Mat_Inf==true){Skibidi_sigma_rizzler=true;}" jako projekt na Motorola Science Cup 24/25.
 ### Ścigaj się po różnych trasach, ulepszaj swoje pojazdy i rywalizuj z przyjaciółmi!
 
 ## 🎮 Funkcje
