@@ -36,7 +36,7 @@ umożliwia on pełną customizację rozgrywki: mapa, ilość graczy(max5), ich t
 ### dopalacz(nitro) - klawisz "lewy ctrl"
 ### zrzucenie skórki od banana - klawisz "Spacja"
 ### wylanie plamy oleju - klawisz "q'
-### postawienie bariery blokującej przeciwników - klawisz "f"
+### postawienie bariery blokującej przeciwników - klawisz "e"
 ### ustawienia sterowania można zmienić w menu pauzy lub ustawiniach pod przyciskiem "adjust controls"
 
 ## ⚔️ Tryb Kampanii
